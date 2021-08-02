@@ -7,7 +7,9 @@ ERC-721 Token Name: Stella Token
 ERC-721 Token Symbol: STT
 Version of Truffle Used: Truffle v5.4.3
 Version of OpenZeppelin Used: OpenZeppelin-solidity v2.3.0
+Rinkeby Token Address: 0x42DFd05477a813F2a17BA09BB5219B4e80AEcAF5
 ```
+
 
 ### Original Project README file contents below
 This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
