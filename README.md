@@ -1,4 +1,4 @@
-**Decentralized Star Notary Service POC**
+# Decentralized Star Notary Service POC
 
 ### Project Details
 ```bash
